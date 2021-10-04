@@ -2,32 +2,32 @@
 
 Welcome to my homepage~ 
 
-### Introduction
+# Introduction
 
 Lu Chen comes from Shangong province, China, who takes a interest in linguistics, especially conversation analysis, pragmatics, health communication. Now it may take you a few mitunes to learn about who Lu Chen is! 
 
-### Education Background
-MA,  Shandong University                English            GPA：4.5/5	        2019.9 - 2022.6
-BA,  Shandong University of Technology  Linguistics        GPA：4.5/5         2015.9 – 2019.6
+# Education Background
+## MA,  Shandong University                English            GPA：4.5/5	        2019.9 - 2022.6
+## BA,  Shandong University of Technology  Linguistics        GPA：4.5/5         2015.9 – 2019.6
 
 ### Student Work
-2019.09-2020.06 Minister of Graduate Student Union of Shandong University
-2015.09-2018.06 Head of planning Department, College Student Mental Health Association
-2015.09-2016.06 Member of the University Student Innovation and Entrepreneurship Center
+## 2019.09-2020.06 Minister of Graduate Student Union of Shandong University
+## 2015.09-2018.06 Head of planning Department, College Student Mental Health Association
+## 2015.09-2016.06 Member of the University Student Innovation and Entrepreneurship Center
 
-### Certificates 
-Tem-4; Tem-8; 
-BEC Intermediate certificate; 
-CATTI Translation Certificate level Ⅲ; CATTI Translation Certificate Ⅱ; 
-Computer Level 2 Certificate, Office; Computer Level 2 Certificate, Python; 
-Mandarin level: Level 2, Grade A; 
-Qualification Certificate for High school English Teachers; 
-Member of Shandong Translators Association; 
-Driver's license C1.
+# Certificates 
+## Tem-4; Tem-8; 
+## BEC Intermediate certificate; 
+## CATTI Translation Certificate level Ⅲ; CATTI Translation Certificate Ⅱ; 
+## Computer Level 2 Certificate, Office; Computer Level 2 Certificate, Python; 
+## Mandarin level: Level 2, Grade A; 
+## Qualification Certificate for High school English Teachers; 
+## Member of Shandong Translators Association; 
+## Driver's license C1.
 
-### Honors and Awards
-	2021、2020 Advanced Individual in student volunteer service in The May 4th Evaluation of Shandong University
-	2020.12 First-class academic Scholarship of Shandong University
+# Honors and Awards
+## 	2021、2020 Advanced Individual in student volunteer service in The May 4th Evaluation of Shandong University
+##	2020.12 First-class academic Scholarship of Shandong University
 	2019.9 The third prize of Shandong University Graduate Student Award Fund
 	2019.9 Third-class Academic Scholarship for 2019 Master's Freshmen of Shandong University 
 	2018.9 Shandong Provincial Government Scholarship
