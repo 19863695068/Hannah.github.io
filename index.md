@@ -7,8 +7,8 @@ Welcome to my homepage~
 Lu Chen comes from Shangong province, China, who takes a interest in linguistics, especially conversation analysis, pragmatics, health communication. Now it may take you a few mitunes to learn about who Lu Chen is! 
 
 ## Education Background
--  MA,  Shandong University                English            GPA：4.5/5	        2019.9 - 2022.6
--  BA,  Shandong University of Technology  Linguistics        GPA：4.5/5         2015.9 – 2019.6
+- MA,  Shandong University                English            GPA：4.5/5	        2019.9 - 2022.6
+- BA,  Shandong University of Technology  Linguistics        GPA：4.5/5         2015.9 – 2019.6
 
 ## Student Work
 1. 2019.09-2020.06 Minister of Graduate Student Union of Shandong University
